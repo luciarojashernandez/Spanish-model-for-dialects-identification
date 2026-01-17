@@ -1,0 +1,9 @@
+# import numpy as np
+# from src.dialect_classifier import train_dialect_classifier
+
+# features = np.random.rand(10, 13)  # 10 muestras de MFCCs de 13 coeficientes
+# labels = np.array(["mexico", "habana"] * 5) 
+
+# model = train_dialect_classifier(features, labels)
+
+# #python -m scripts.test_dialect_classifier
